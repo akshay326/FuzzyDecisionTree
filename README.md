@@ -1,6 +1,7 @@
 ﻿# Decision Tree Program
 **Python3** implementation of ID3 algorithm based on categorical datasets.
 
+![Sample Decision Tree](https://drive.google.com/uc?export=view&id=1VMyTxclWMfpgkgHBshep_koCPaoyPHOJ)
 
 ## Features
 + The tree is created using ``DecisionTree.py`` file. 
